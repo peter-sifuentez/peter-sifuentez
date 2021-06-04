@@ -3,7 +3,7 @@ My name is Peter, I enjoy building websites while learning new technologies and 
 
 🔭 I’m currently working on a custom made ecommerce safari theme website
 
-🌱 I’m currently learning how to work with media queries and how to build a PWA
+🌱 I’m currently learning about PWA's
 
 ## My portfolio website
 <a target="_blank" href="https://petersifuentez.com/">petersifuentez.com</a>
