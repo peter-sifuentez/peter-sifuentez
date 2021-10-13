@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Peter, I enjoy building websites while learning new technologies and sharping my skills. Here is some info about me: 
 
-🔭 I’m currently working on a custom made ecommerce safari theme website
+🔭 I’m currently working on a resort theme website
 
 🌱 I’m currently learning about PWA's
 
