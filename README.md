@@ -3,7 +3,7 @@ My name is Peter, I enjoy building websites while learning new technologies and 
 
 🔭 I’m currently working on updating my portfolio website
 
-🌱 I’m currently learning about Javascript  
+🌱 I’m currently learning about querySelectors   
 
 ## My portfolio website
 <a target="_blank" href="https://petersifuentez.com/">petersifuentez.com</a>
