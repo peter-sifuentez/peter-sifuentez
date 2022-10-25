@@ -3,7 +3,7 @@ My name is Peter, I enjoy building websites while learning new technologies and 
 
 🔭 I’m currently working on improving the close menu button for the mobile menu of my portfolio website
 
-🌱 I’m currently learning about querySelectors, eventListeners and taking a deeper dive into Javascript 
+🌱 I’m currently learning about querySelectors, eventListeners and relearning Javascript basics 
 
 ## My portfolio website
 <a target="_blank" href="https://petersifuentez.com/">petersifuentez.com</a>
