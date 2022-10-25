@@ -1,9 +1,9 @@
 ## Hi there 👋
 My name is Peter, I enjoy building websites while learning new technologies and sharping my skills. Here is some info about me: 
 
-🔭 I’m currently working on updating my portfolio website
+🔭 I’m currently working on improving the close menu button for the mobile menu of my portfolio website
 
-🌱 I’m currently learning about querySelectors, eventListeners and more about Javascript 
+🌱 I’m currently learning about querySelectors, eventListeners and taking a deeper dive into Javascript 
 
 ## My portfolio website
 <a target="_blank" href="https://petersifuentez.com/">petersifuentez.com</a>
